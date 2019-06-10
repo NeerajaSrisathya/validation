@@ -11,5 +11,8 @@ public class Test {
 		System.out.println("end here");
 		
 	}
+	public String add(){
+		return "";
+	}
 
 }
