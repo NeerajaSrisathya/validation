@@ -4,7 +4,15 @@ public class Student {
 	public int stdid;
 	public String stdName;
 	public String clg;
+	public String branch;
 	
+	
+	public String getBranch() {
+		return branch;
+	}
+	public void setBranch(String branch) {
+		this.branch = branch;
+	}
 	public String getClg() {
 		return clg;
 	}
